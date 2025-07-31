@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "vscjava.vscode-java-pack",
+        "vmware.vscode-boot-dev-pack",
+        "postman.postman-for-vscode",
+        "ms-azuretools.vscode-docker",
+        "coderabbit.coderabbit-vscode",
+        "eamodio.gitlens"
+    ]
+}
